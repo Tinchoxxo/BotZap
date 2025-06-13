@@ -1,0 +1,37 @@
+{
+  "data": {
+    "users": {},
+    "chats": {},
+    "game": {},
+    "database": {},
+    "settings": {},
+    "setting": {},
+    "others": {},
+    "sticker": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "./LEOXEL4S/srleok/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "./LEOXEL4S/srleok/database.json",
+        "tempFilename": "LEOXEL4S/srleok/.database.json.tmp"
+      }
+    }
+  },
+  "READ": false,
+  "chain": {
+    "users": {},
+    "chats": {},
+    "game": {},
+    "database": {},
+    "settings": {},
+    "setting": {},
+    "others": {},
+    "sticker": {}
+  }
+}

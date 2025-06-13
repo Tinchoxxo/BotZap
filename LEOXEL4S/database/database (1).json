@@ -1,0 +1,37 @@
+{
+  "data": {
+    "users": {},
+    "chats": {},
+    "game": {},
+    "database": {},
+    "settings": {},
+    "setting": {},
+    "others": {},
+    "sticker": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "./@LEOMODDZ0444/src/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "./@LEOMODDZ0444/src/database.json",
+        "tempFilename": "@LEOMODDZ0444/src/.database.json.tmp"
+      }
+    }
+  },
+  "READ": false,
+  "chain": {
+    "users": {},
+    "chats": {},
+    "game": {},
+    "database": {},
+    "settings": {},
+    "setting": {},
+    "others": {},
+    "sticker": {}
+  }
+}
